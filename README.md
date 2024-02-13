@@ -6,8 +6,11 @@ This project aims to analyze data related to global immunization campaigns that 
 This analysis focused on factors such as;
 
 The geographic scale which was covered by the immunization campaigns.
+
 The status of the immunization campaigns, for instance, was the campaign discontinued, postponed, on track, etc.?
+
 The type of immunization campaign, for instance, preventive, outbreak response, follow up, etc.
+
 The target of the vaccination campaign, for example, type 2 poliovirus, measles and rubella, yellow fever, etc.
 
 Project Approach
